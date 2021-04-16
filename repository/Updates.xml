@@ -1,0 +1,20 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.titeng.airmap</Name>
+  <DisplayName>天腾大气地面站</DisplayName>
+  <Description>天腾大气地面站，大气设备的配套软件，用于显示和分析大气相关参数。</Description>
+  <Version>v0.0.00.06-1</Version>
+  <ReleaseDate>2021-04-13</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" UncompressedSize="174070444" CompressedSize="49242815"/>
+  <DownloadableArchives>bearer.7z,iconengines.7z,imageformats.7z,platforms.7z,position.7z,printsupport.7z,resources.7z,script.7z,translations.7z,tteng_resources.7z,content.7z</DownloadableArchives>
+  <UserInterfaces>targetwidget.ui</UserInterfaces>
+  <SHA1>2d3e5e39ff9c0f554c5179a220b02697621ad07a</SHA1>
+ </PackageUpdate>
+ <SHA1>2d3e5e39ff9c0f554c5179a220b02697621ad07a</SHA1>
+ <MetadataName>2021-04-16-1539_meta.7z</MetadataName>
+</Updates>
